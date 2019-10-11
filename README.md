@@ -1,5 +1,5 @@
 # MultiroomPlayer
 
-A sample Multi-room player for Audio Speakers to play music synchorized over WiFi Networks.
+A sample Multi-room player for Audio Speakers to play music synchronized over WiFi Networks.
 
 
